@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>software.amazon.pay</groupId>
     <artifactId>amazon-pay-api-sdk-java</artifactId>
-    <packaging>jar</packaging>
+    <packaging>war</packaging>
     <version>2.6.4</version>
     <dependencies>
        <!-- https://mvnrepository.com/artifact/org.json/json -->
